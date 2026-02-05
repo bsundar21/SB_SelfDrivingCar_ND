@@ -1,0 +1,15 @@
+# Datasets (never commit)
+data/
+__oi_bootstrap__/
+openimages_csv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
